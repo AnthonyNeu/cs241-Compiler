@@ -1,0 +1,14 @@
+//Simple parsing test
+main 
+var x, y,z;
+function foo();
+{
+    return 14
+};
+
+{
+    let x <- 51; 
+    let y <- 2 * x;
+    let z <- call foo;
+    call OutputNum(y)
+}.

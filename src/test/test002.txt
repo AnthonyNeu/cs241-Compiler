@@ -1,0 +1,7 @@
+main
+var a,b;
+{
+    let a<-1;
+    let b<-2;
+    call OutputNum(a*b+a*2)
+}.
